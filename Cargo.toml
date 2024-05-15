@@ -1,0 +1,6 @@
+[package]
+name = "rs_stm32_nucleo-h743zi2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
